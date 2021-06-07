@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package saadcalender;
 
 import java.util.Scanner;
@@ -28,7 +24,7 @@ public class SaadCalender {
         // A for loop that prints out each month
         for(int month = 1; month <= 12; month++)
         {
-            // Set the value of the amount of days in a month
+         
             int daysMonth = 0;
 
             // Set value of the month 
